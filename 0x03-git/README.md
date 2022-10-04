@@ -1,3 +1,3 @@
 My next readme
-git pull
+Update README.md
 
